@@ -1,4 +1,4 @@
-# Python
+
 # Sieťové nástroje v Pythone
 
 Dva malé skripty na kontrolu IP adries a sieťovej dostupnosti. Používajú len štandardnú knižnicu Pythonu.
